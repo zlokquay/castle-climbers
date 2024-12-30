@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bdsiqd8i1d5qw"]
+
+[ext_resource type="Texture2D" uid="uid://c5j00wy2rk72v" path="res://Assets/Kings and Pigs/Sprites/01-King Human/Run (78x58).png" id="1_rc2v3"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_rc2v3")
